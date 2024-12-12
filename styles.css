@@ -75,3 +75,12 @@ image {
     width: 600px;
     margin-right: 100px;
 }
+
+.servheading {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
