@@ -68,9 +68,10 @@ button:hover {
     background-color: blue;
 } /* Slightly darker blue */
 
-image {
+.subheader img {
     display: flex;
-    border-radius: 8px;
+    border-radius: 15px 50px;
+    border-style: none;
 }
 
 .blurb {
