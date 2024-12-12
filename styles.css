@@ -1,0 +1,33 @@
+.header {
+    background-color: #1F2937;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+nav {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.subheader {
+    display: flex;
+}
+
+
+
+.navigation {
+    color: #F9FAF8;
+    font-size: 24px;
+} 
+
+.heading {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.sub {
+    size: 18px;
+    color: #e5e7eb;
+}
