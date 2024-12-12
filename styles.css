@@ -70,6 +70,7 @@ button:hover {
 
 image {
     display: flex;
+    border-radius: 8px;
 }
 
 .blurb {
