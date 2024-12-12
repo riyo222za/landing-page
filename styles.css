@@ -168,3 +168,12 @@ image {
     font-weight: lighter;
     font-size: 18px;
 }
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #e5e7eb;
+    padding: 20px 200px 20px 200px;
+    text-align: center;
+    justify-content: center;
+}
