@@ -137,3 +137,34 @@ image {
     margin-right: 200px;
     margin-top: 0px;
 }
+
+.contact {
+    margin: 100px 200px 100px 200px;
+}
+
+.contactbox {
+    display: flex;
+    padding: 20px 200px 20px 200px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.contactbox button {
+    border-style: solid;
+    border-color: #F9FAF8;
+}
+
+.bold {
+    margin-bottom: 0px;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.cblurb {
+    margin-top: 0px;
+    font-weight: lighter;
+    font-size: 18px;
+}
