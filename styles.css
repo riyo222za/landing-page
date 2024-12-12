@@ -53,6 +53,7 @@ a:visited { text-decoration: none;
 button {
     background-color: #3882f6;
     border-radius: 8px;
+    border: none;
     width: 100px;
     height: 30px;
     color: #F9FAF8;
