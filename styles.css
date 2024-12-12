@@ -84,3 +84,28 @@ image {
     color: #1F2937;
     font-weight: 900;
 }
+
+.service1,
+.service2,
+.service3,
+.service4 {
+
+    width: 200px;
+
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 100px;
+}
+
+.boxes img {
+
+    border-color: #3882f6;
+    border-radius: 8px;
+    border-style: solid;
+    
+}
