@@ -44,8 +44,7 @@ nav {
 .sub {
     font-size: 18px;
     color: #e5e7eb;
-    padding-bottom: 10px;
-    
+    padding-bottom: 10px;   
 }
 
 button {
@@ -57,21 +56,16 @@ button {
     border-color: #3882f6 ;
     font-size: 18px;
     font-weight: bolder;
-    
-
 }
 
 image {
     display: flex;
-   /* flex-grow: 3; */
 }
 
 .blurb {
-
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    /* padding-right: 100px; */
     width: 600px;
     margin-right: 100px;
 }
@@ -89,9 +83,7 @@ image {
 .service2,
 .service3,
 .service4 {
-
     width: 200px;
-
 }
 
 .boxes {
@@ -103,9 +95,7 @@ image {
 }
 
 .boxes img {
-
     border-color: #3882f6;
     border-radius: 8px;
-    border-style: solid;
-    
+    border-style: solid; 
 }
