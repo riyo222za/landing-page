@@ -70,7 +70,7 @@ image {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    width: 600px;
+    /* width: 600px; */
     margin-right: 100px;
 }
 
