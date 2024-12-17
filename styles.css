@@ -15,10 +15,12 @@ nav {
     display: flex;
     padding: 20px;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .subheader {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding-top: 50px;
     padding-bottom: 100px;
@@ -26,6 +28,7 @@ nav {
 
 .navigation {
     display: flex;
+    flex-wrap: wrap;
     color: #e5e7eb;
     font-size: 18px;
     gap: 25px;
@@ -69,7 +72,7 @@ button:hover {
 } /* Slightly darker blue */
 
 .subheader img {
-    display: flex;
+    height: auto;
     border-radius: 15px 50px;
     border-style: none;
 }
@@ -122,6 +125,7 @@ button:hover {
 
 .quote {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
     font-size: 36px;
@@ -135,6 +139,7 @@ button:hover {
 
 .creator {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     align-items: flex-end;
     font-size: 24px;
@@ -152,6 +157,7 @@ button:hover {
 
 .contactbox {
     display: flex;
+    flex-wrap: wrap;
     padding: 20px 200px 20px 200px;
     background-color: #3882f6;
     color: #F9FAF8;
@@ -179,6 +185,7 @@ button:hover {
 
 .footer {
     display: flex;
+    flex-wrap: wrap;
     background-color: #1F2937;
     color: #e5e7eb;
     padding: 20px 200px 20px 200px;
